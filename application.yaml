@@ -11,7 +11,7 @@ spec:
   project: apps
   
   source:
-    repoURL: https://github.com/jenana-devops/argocd-env.git
+    repoURL: https://github.com/mihyeNam/argocd-env.git
     targetRevision: HEAD
     path: apps
   
